@@ -61,7 +61,7 @@ public class HolaMundo {
         // 7.
         System.out.println("Ejercicio 7): ");
         System.out.println("Esta es un frase de prueba ");
-        System.out.println("Continuando con la frase de prueba");
+        System.out.println("Continuando con la frase ");
     }
 
 }
