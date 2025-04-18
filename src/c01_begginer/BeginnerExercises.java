@@ -73,5 +73,7 @@ public class BeginnerExercises {
 
         apellido = "Gallo";
         System.out.println("Mi apellido es: " + apellido);
+
+        System.out.println("Por lo tanto mi nombre es: " + nombre + " y mi apellido: " + apellido);
     }
 }
