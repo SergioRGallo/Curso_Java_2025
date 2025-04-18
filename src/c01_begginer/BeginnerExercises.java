@@ -72,6 +72,6 @@ public class BeginnerExercises {
         String apellido;
 
         apellido = "Gallo";
-        System.out.println("Mi apellido es:  " + apellido);
+        System.out.println("Mi apellido es: " + apellido);
     }
 }
